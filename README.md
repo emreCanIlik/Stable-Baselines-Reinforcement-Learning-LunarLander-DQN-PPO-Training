@@ -62,7 +62,6 @@ To use the continuous environment, specify `continuous=True`. Additional argumen
 - **v1:** Added legs contact with the ground in the state vector
 - **v0:** Initial version
 
-#### Credits
-Created by Oleg Klimov.
 
+#### Credits
 This repository utilizes Stable Baselines, DQN, and PPO agents for reinforcement learning.
