@@ -43,6 +43,11 @@ The lander begins at the top center of the viewport with a random initial force 
 - Moving outside the viewport
 - Lander not awake (body doesn't move or collide)
 
+###  Stable Baselines Integration
+
+This repository utilizes Stable Baselines, a set of reliable implementations of reinforcement learning algorithms. Both DQN and PPO agents are used to train agents in the Lunar Lander environment.
+
+
 #### Continuous Environment
 To use the continuous environment, specify `continuous=True`. Additional arguments can control gravity, wind effects, and turbulence.
 
