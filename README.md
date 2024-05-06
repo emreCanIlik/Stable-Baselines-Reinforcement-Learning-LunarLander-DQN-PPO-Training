@@ -2,7 +2,8 @@
 
 ### Lunar Lander Environment
 
-![image](https://github.com/emreCanIlik/Stable-Baselines-Reinforcement-Learning-LunarLander-DQN-PPO-Training/assets/118285895/886b282e-4658-4adc-9e17-b44f40735cb0)
+![image](https://github.com/emreCanIlik/Stable-Baselines-Reinforcement-Learning-LunarLander-DQN-PPO-Training/assets/118285895/95df2951-c076-407b-9160-cf1934ef8030)
+
 
 
 
