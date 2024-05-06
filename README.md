@@ -45,7 +45,10 @@ The lander begins at the top center of the viewport with a random initial force 
 
 ###  Stable Baselines Integration
 
+![image](https://github.com/emreCanIlik/Stable-Baselines-Reinforcement-Learning-LunarLander-DQN-PPO-Training/assets/118285895/60fbbd06-6f9b-41d5-9bc0-616ade622fd0)
+
 This repository utilizes Stable Baselines, a set of reliable implementations of reinforcement learning algorithms. Both DQN and PPO agents are used to train agents in the Lunar Lander environment.
+
 
 
 #### Continuous Environment
