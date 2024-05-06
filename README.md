@@ -2,7 +2,8 @@
 
 ### Lunar Lander Environment
 
-https://www.gymlibrary.dev/_images/lunar_lander.gif
+![Lunar Lander](lunar_lander.gif)
+
 
 
 The Lunar Lander environment is part of the Box2D environments in Gym. This environment simulates a classic rocket trajectory optimization problem, where the goal is to land a spacecraft safely on the moon's surface.
